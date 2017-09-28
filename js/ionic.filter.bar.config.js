@@ -1,6 +1,7 @@
 /* global angular */
 /**
  * This copies the functionality of the ionicConfig provider to allow for platform specific configuration
+ * porra precisava de mais explicação nessa linha, moro!?
  */
 (function (angular) {
   'use strict';
