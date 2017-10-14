@@ -117,7 +117,7 @@ angular.module('jett.ionic.filter.bar', ['ionic']);
 
             //Event Listeners
             cancelEl.addEventListener('click', cancelFilterBar);
-            // Since we are wrapping with label, need to bind touchstart rather than click.
+            // Since we are wrapping with label, need to bind touchstart rather than click
             // Even if we use div instead of label need to bind touchstart.  Click isn't allowing input to regain focus quickly
             clearEl.addEventListener('touchstart', clearClick);
             clearEl.addEventListener('mousedown', clearClick);
