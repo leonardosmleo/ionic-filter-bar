@@ -8,7 +8,7 @@ var rename = require('gulp-rename');
 var sh = require('shelljs');
 var karma = require('karma').server;
 var uglify = require('gulp-uglify');
-
+  
 var karmaConf = require('./karma.conf.js');
 var paths = {
   sass: ['./scss/**/*.scss'],
