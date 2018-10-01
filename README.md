@@ -1,5 +1,5 @@
 <img src="demo/resources/icon.png" align="left" height="85" width="85">
-
+#É verdade esse commit
 #Ionic Filter Bar
 >A platform specific search filter plugin for the Ionic Framework (iOS / Android)
 >Based on AngularJS and Material Design.
