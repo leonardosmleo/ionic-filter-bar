@@ -4,7 +4,7 @@
 >A platform specific search filter plugin for the Ionic Framework (iOS / Android)
 >Based on AngularJS and Material Design.
 
-## Table of Contents
+## Table of Contentsss
  - [Demo](#demo)
  - [Setup](#setup)
  - [Usage](#usage)
