@@ -10,7 +10,7 @@
  - [Usage](#usage)
  - [Screenshots](#screenshots)
 
-## Demo
+## Demo do RIDIMI
 
 - Watch the Demo video below
 
