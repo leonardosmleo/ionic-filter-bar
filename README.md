@@ -20,7 +20,7 @@
   > NOTE:  On the Ionic View app, `KeyboardDisplayRequiresUserAction` is not being respected, therefore the autofocus that brings the keyboard up right away does not work.  This will work however on a real device
 or emulator as long as the proper configuration has been setup (see Config section)
 
-- Run the demo source code by cloning the ionic-filter-bar repo, navigating to /demo and running the following
+- Run the demo source code by cloning the ionic-filter-bar repo, navigating to /demo and running the following:
 
 Run the following ommands:
 
@@ -44,7 +44,7 @@ you will need to add the following to your config.xml
     </platform>
 
 I also recommend using the [ionic-plugin-keyboard](https://github.com/driftyco/ionic-plugin-keyboard) and
-disabling scroll for the keyboard as well.  See the app.js in the Demo for an example on how to configure the Ionic
+disabling scroll for the keyboard as well. See the app.js in the Demo for an example on how to configure the Ionic
 Keyboard in your module's run section.
 
 #### JS/CSS Imports (index.html)
