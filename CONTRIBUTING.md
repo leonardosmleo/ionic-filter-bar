@@ -1,3 +1,2 @@
-Contribua e ganhe uma camiseta grátis :)
-
 estamos ai 
+Fique à vontade para contribuir no projeto.
